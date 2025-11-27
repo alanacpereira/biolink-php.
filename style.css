@@ -1,7 +1,7 @@
 body {
-background-color: #1a1a2e;
+background-color: #2caac9;
 color: #ffffff;
-font-family: Arial, sans-serif;
+font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
 text-align: center;
 }
 
@@ -14,22 +14,24 @@ padding: 20px;
 .avatar {
 width: 120px;
 border-radius: 50%;
-border: 3px solid #e94560;
+border: 3px solid #093578;
 }
 
 .btn {
 display: block;
-background-color: #16213e;
+background-color: #2abfe4;
 color: white;
-padding: 15px;
-margin: 10px 0;
+padding: 5px;
+margin: 8px 0;
 text-decoration: none;
-border-radius: 8px;
+border-radius: 10px;
 transition: 0.3s;
+font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+text-align: center;
 }
 
 .btn:hover {
-background-color: #0f3460;
+background-color: #1d92b9;
 transform: scale(1.02);
 }
 
