@@ -36,6 +36,7 @@ o restante sozinha(espero que não tenha problema) */
     transition: 0.25s ease;
     background: linear-gradientto bottom right rgba(23, 146, 177, 0.65),rgba(10, 120, 150, 0.55) backdrop-filter blur(10px);
       -webkit-backdrop-filter: blur(8px);
+      
     }
 
     .btn:hover {
