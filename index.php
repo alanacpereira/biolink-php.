@@ -35,7 +35,7 @@
                      $classe_extra = "";
 
                      if ($texto == "Instagram") {
-                        $classe_extra ="destaque";
+                        $classe_extra ="destaque"; 
                      }
                      echo "<a href='$url' class='btn $classe_extra' target='_blank'><br>
                         $texto
